@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="prefijoNuevo">
+    <file>Logo_UCH.png</file>
+  </qresource>
+</RCC>
